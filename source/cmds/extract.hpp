@@ -4,5 +4,5 @@
 
 namespace cmds
 {
-    void list(std::string path);
+    void extract(std::string path, std::string dir);
 }
